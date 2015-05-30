@@ -1,2 +1,2 @@
 N = 4  # num of nodes
-alpha = 0.8
+alpha = 0.85
